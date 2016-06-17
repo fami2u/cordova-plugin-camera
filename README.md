@@ -753,5 +753,7 @@ function createNewFileEntry(imgUri) {
 }
 ```
 
+Android 6.0吊起相机报错时可将    android:targetSdkVersion   改为23以下，不包括23
+ 
 
 关于fami更多插件：http://fami2u.com/
