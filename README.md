@@ -751,4 +751,4 @@ function createNewFileEntry(imgUri) {
 
     }, onErrorResolveUrl);
 }
-```
+```关于fami更多插件：http://fami2u.com/
